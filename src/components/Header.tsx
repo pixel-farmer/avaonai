@@ -16,7 +16,7 @@ const Header = () => {
         <ul className="flex space-x-4">
           <li>
             <a
-              className="text-black font-roboto font-medium leading-5 py-[50px] bg-transparent relative z-[9999] uppercase h-auto cursor-pointer tracking-[1.5px] transition-all duration-300 ease-in-out"
+              className=""
               href="#"
             >
               AVA on AI

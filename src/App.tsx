@@ -1,13 +1,19 @@
 //import React from 'react';
+import CustomCursor from './components/CustomCursor'; // Ensure the path matches your file structure
 import Header from './components/Header';
 import Hero from './components/Hero';
 import TextSection from './components/TextSection';
 import Carousel from './components/Carousel';
 import ContentSection from './components/ContentSection';
+import './App.css'; // Import your styles (optional, but recommended for consistency)
+
 
 const App = () => {
   return (
     <div>
+      {/* Custom cursor */}
+      <CustomCursor />
+
       {/* Header with full-width white background */}
       <div className='bg-white'>
         {/* Centered container for header content */}
