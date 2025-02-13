@@ -26,6 +26,7 @@ const App = () => {
 
       {/* Centered container for the rest of the content */}
       <div className="max-w-7xl mx-auto">
+        <TextSection/>
         <Carousel />
         <ContentSection />
         <ContentSection />
