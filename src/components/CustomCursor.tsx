@@ -16,7 +16,7 @@ const CustomCursor: React.FC = () => {
       const ring = document.querySelector(".cursor-ring") as HTMLDivElement;
       if (ring) {
         ring.style.transform = "scale(1.5)";
-        ring.style.borderColor = "#ff84ff"; // Color when hovering
+        ring.style.borderColor = "#ddf272"; // Color when hovering
       }
     };
 
@@ -24,7 +24,7 @@ const CustomCursor: React.FC = () => {
       const ring = document.querySelector(".cursor-ring") as HTMLDivElement;
       if (ring) {
         ring.style.transform = "scale(1)";
-        ring.style.borderColor = "#ddf272"; // Reset color
+        ring.style.borderColor = "#f81257"; // Reset color
       }
     };
 

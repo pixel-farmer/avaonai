@@ -5,7 +5,7 @@ import 'slick-carousel/slick/slick-theme.css';
 
 // Slider settings
 const settings = {
-  dots: true,
+  dots: false,
   infinite: true,
   speed: 500,
   slidesToShow: 3,
@@ -40,7 +40,7 @@ const Carousel = () => {
   ];
 
   return (
-    <div className="w-full h-[640px] bg-gray-100 flex items-center justify-center">
+    <div className="w-full h-[640px] bg-black flex items-center justify-center">
       <Slider {...settings} className="w-[80%]">
         {slides.map((slide) => (
           <div key={slide.id} className="h-[600px] bg-white p-4 shadow-lg rounded-lg overflow-hidden">

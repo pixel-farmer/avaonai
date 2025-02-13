@@ -23,17 +23,24 @@ const App = () => {
       </div>
 
       {/* Hero with full-width black background */}
-      <div className="bg-black">
+      <div className="bg-[url('/hero-graphic.jpg')] bg-cover bg-center bg-no-repeat">
         {/* Centered container for hero content */}
         <div className="max-w-7xl mx-auto items-center" >
           <Hero />
         </div>
       </div>
 
-      {/* Centered container for the rest of the content */}
-      <div className="max-w-7xl mx-auto">
+      {/* Hero with full-width black background */}
+            <div className="bg-black">
+        {/* Centered container for hero content */}
+        <div className="max-w-7xl mx-auto items-center" >
         <TextSection/>
         <Carousel />
+        </div>
+      </div>
+
+      {/* Centered container for the rest of the content */}
+      <div className="max-w-7xl mx-auto bg-black">
         <ContentSection />
         <ContentSection />
       </div>

@@ -23,6 +23,15 @@ button {
   cursor: none; /* Ensure default cursor is hidden on interactive elements */
 }
 
+h1 {
+  color: #ffffff; /* White text color */
+  font-family: 'Roboto', sans-serif; /* Roboto font */
+  font-size: 3.5em;
+  font-weight: 500; /* Medium font weight */
+  /* line-height: 3rem;  20px line height */
+  text-decoration: none; /* Optional: removes underline for links */
+}
+
 a {
   cursor: none;
   color: #000000; /* Black text color */
@@ -37,7 +46,7 @@ a {
 .cursor {
   width: 16px;
   height: 16px;
-  background-color: #ddf272;
+  background-color: #f81257;
   border-radius: 50%;
   position: absolute;
   pointer-events: none;
@@ -48,7 +57,7 @@ a {
 .cursor-ring {
   width: 52px;
   height: 52px;
-  border: 1px solid #ddf272;
+  border: 1px solid #f81257;
   border-radius: 50%;
   position: absolute;
   pointer-events: none;
