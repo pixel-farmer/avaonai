@@ -1,0 +1,5 @@
+#root {
+  max-width: 100%; /* Allow the header to span the full width */
+  margin: 0 auto;
+  padding: 0; /* Remove padding if it's causing issues */
+}
