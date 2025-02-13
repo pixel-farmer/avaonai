@@ -22,7 +22,7 @@ const App = () => {
         </div>
       </div>
 
-      {/* Hero with full-width black background */}
+      {/* Hero with full-width bg-gray-300 background */}
       <div className="bg-[url('/hero-graphic.jpg')] bg-cover bg-center bg-no-repeat">
         {/* Centered container for hero content */}
         <div className="max-w-7xl mx-auto items-center" >

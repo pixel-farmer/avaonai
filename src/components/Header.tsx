@@ -3,7 +3,7 @@
 
 const Header = () => {
   return (
-    <header className="text-black p-4 flex justify-between items-center">
+    <header className="text-black bg-white p-4 flex justify-between items-center">
       {/* Logo */}
       <div className="text-xl font-bold" >
         <img
