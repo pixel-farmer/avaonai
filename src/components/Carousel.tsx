@@ -41,9 +41,9 @@ const Carousel = () => {
 
   return (
     <div className="w-full h-[640px] bg-black flex items-center justify-center">
-      <Slider {...settings} className="w-[80%]">
+      <Slider {...settings} className="w-[100%]">
         {slides.map((slide) => (
-          <div key={slide.id} className="h-[600px] bg-white p-4 shadow-lg rounded-lg overflow-hidden">
+          <div key={slide.id} className="h-[500px] bg-white p-4 shadow-lg rounded-lg overflow-hidden">
             <div className="h-full flex items-center justify-center relative">
               <a
                 href={slide.url}

@@ -30,7 +30,7 @@ const App = () => {
         </div>
       </div>
 
-      {/* Hero with full-width black background */}
+      {/* Headline and carousel with full-width black background */}
             <div className="bg-black">
         {/* Centered container for hero content */}
         <div className="max-w-7xl mx-auto items-center" >

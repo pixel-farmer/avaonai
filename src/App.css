@@ -21,7 +21,7 @@ body {
 
 button {
   cursor: none; /* Ensure default cursor is hidden on interactive elements */
-}
+} 
 
 h1 {
   color: #ffffff; /* White text color */
