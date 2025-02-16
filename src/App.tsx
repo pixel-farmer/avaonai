@@ -5,7 +5,7 @@ import Hero from './components/Hero';
 import TextSection from './components/TextSection';
 import Carousel from './components/Carousel';
 import AboutSection from './components/AboutSection';
-import ContentSection from './components/AboutSection';
+//import ContentSection from './components/AboutSection';
 import './App.css'; // Import your styles (optional, but recommended for consistency)
 
 
