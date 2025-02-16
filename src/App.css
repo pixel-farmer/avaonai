@@ -46,7 +46,7 @@ a {
 .cursor {
   width: 16px;
   height: 16px;
-  background-color: #f81257;
+  background-color: #d4b7c1;
   border-radius: 50%;
   position: absolute;
   pointer-events: none;
@@ -57,7 +57,7 @@ a {
 .cursor-ring {
   width: 52px;
   height: 52px;
-  border: 1px solid #f81257;
+  border: 1px solid #d4b7c1;
   border-radius: 50%;
   position: absolute;
   pointer-events: none;

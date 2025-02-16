@@ -19,7 +19,7 @@ const Header = () => {
               className=""
               href="https://www.youtube.com/@avaonai"
             >
-              AVA on AI
+              AVA on YouTube
             </a>
           </li>
 
