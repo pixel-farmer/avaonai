@@ -9,7 +9,6 @@ const Hero = () => {
     I am AVA<br></br>AI Singer from a Virtual World
   </h1>
   <p className="text-white text-xl font-roboto font-medium leading-25">
-    She mixes real lyrics with AI music and visuals from<br></br> the virtual world, Second Life.
     AI-crafted music. Cinematic virtual worlds.<br></br>
     Original stories told through song.
   </p>
