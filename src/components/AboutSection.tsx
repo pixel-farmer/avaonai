@@ -8,11 +8,8 @@ const AboutSection = () => {
       What Is AVA on AI?
     </h1>
     <p className="text-black text-xl font-roboto font-medium leading-25">
-    "AVA on AI" is your go-to resource for exploring the latest developments 
-        in artificial intelligence. With engaging tutorials and practical app-building 
-        projects, we make cutting-edge technology accessible to everyone. Whether you’re 
-        an AI enthusiast or a developer looking to expand your skills, you’ll find inspiration 
-        and guidance here.
+    "I am AVA" Meet AVA — a virtual artist at the intersection of music, storytelling, and machine-made dreams.
+    On this channel, AVA creates original music videos inside Second Life, fusing cinematic virtual worlds with AI-generated vocals, sound, and visuals. Every piece is a journey through the future of creativity.
     </p>
     </div>
   </div>
