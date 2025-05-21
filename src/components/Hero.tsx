@@ -12,9 +12,9 @@ const Hero = () => {
     AI-crafted music. Cinematic virtual worlds.<br></br>
     Original stories told through song.
   </p>
-  <button className="w-[140px] h-[50px] mt-8 font-roboto font-medium bg-yellow-400 text-black rounded hover:bg-yellow-300">
+  <!--button className="w-[140px] h-[50px] mt-8 font-roboto font-medium bg-yellow-400 text-black rounded hover:bg-yellow-300">
     Start Exploring
-  </button>
+  </button-->
 </div>
 </div>
   );
