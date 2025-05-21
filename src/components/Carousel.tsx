@@ -34,8 +34,8 @@ const Carousel = () => {
   const slides = [
     { id: 1, image: '/slide1.jpg', title: 'Slide 1', url: 'https://memelicious.vercel.app/' },
     { id: 2, image: '/slide2.jpg', title: 'Slide 2', url: 'https://example.com/slide2' },
-    { id: 3, image: '/slide2.jpg', title: 'Slide 3', url: 'https://example.com/slide3' },
-    { id: 4, image: '/slide2.jpg', title: 'Slide 4', url: 'https://example.com/slide4' },
+    { id: 3, image: '/slide3.jpg', title: 'Slide 3', url: 'https://example.com/slide3' },
+    { id: 4, image: '/slide1.jpg', title: 'Slide 4', url: 'https://example.com/slide4' },
     { id: 5, image: '/slide2.jpg', title: 'Slide 5', url: 'https://example.com/slide5' },
   ];
 
