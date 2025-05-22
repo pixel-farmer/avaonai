@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import TextSection from './components/TextSection';
 import Carousel from './components/Carousel';
 import AboutSection from './components/AboutSection';
+import FooterSection from './components/FooterSection';
 //import ContentSection from './components/AboutSection';
 import './App.css'; // Import your styles (optional, but recommended for consistency)
 
@@ -41,10 +42,17 @@ const App = () => {
       </div>
 
       {/* Centered container for the rest of the content */}
-      <div className="max-w-7xl mx-auto bg-black">
+      <div className="max-w-7xl mx-auto bg-white">
         <AboutSection />
+
+
+      {/* Centered container for the rest of the content */}
+      <div className="max-w-7xl mx-auto bg-black">
+        <FooterSection />
       </div>
     </div>
+
+    
   );
 };
 
