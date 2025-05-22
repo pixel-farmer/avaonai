@@ -33,7 +33,7 @@ const App = () => {
       </div>
 
       {/* Headline and carousel with full-width black background */}
-            <div className="bg-black">
+      <div className="bg-black">
         {/* Centered container for hero content */}
         <div className="max-w-7xl mx-auto items-center" >
         <TextSection/>
@@ -44,9 +44,9 @@ const App = () => {
       {/* Centered container for the rest of the content */}
       <div className="max-w-7xl mx-auto bg-white">
         <AboutSection />
+    </div>
 
-
-      {/* Centered container for the rest of the content */}
+          {/* Centered container for the rest of the content */}
       <div className="max-w-7xl mx-auto bg-black">
         <FooterSection />
       </div>
