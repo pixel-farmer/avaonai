@@ -21,7 +21,7 @@ const FooterSection = () => {
           <a href="https://www.facebook.com/profile.php?id=100090879751682" target="_blank" rel="noopener noreferrer">
             <FaFacebookF className="text-white hover:text-blue-500 text-3xl" />
           </a>
-          <a href="https://www.tiktok.com/@iamavamusic" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/AnaDuBoisSL" target="_blank" rel="noopener noreferrer">
             <FaTwitter className="text-white hover:text-sky-400 text-3xl" />
           </a>
           <a href="https://www.instagram.com/anastashiadubois/" target="_blank" rel="noopener noreferrer">
