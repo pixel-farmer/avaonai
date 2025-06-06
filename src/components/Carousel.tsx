@@ -36,7 +36,7 @@ const Carousel = () => {
     { id: 2, image: '/slide2.jpg', title: 'Slide 2', url: 'https://www.youtube.com/watch?v=nMJQPGzGZWk' },
     { id: 3, image: '/slide3.jpg', title: 'Slide 3', url: 'https://www.youtube.com/watch?v=bvHKS5FdTsY' },
     { id: 4, image: '/slide4.jpg', title: 'Slide 4', url: 'https://www.youtube.com/watch?v=Ec33vQXmzzU' },
-    { id: 5, image: '/slide2.jpg', title: 'Slide 5', url: 'https://www.youtube.com/watch?v=nMJQPGzGZWk' },
+    { id: 5, image: '/slide5.jpg', title: 'Slide 5', url: 'https://www.youtube.com/watch?v=4RdMO5Kzsks' },
   ];
 
   return (
