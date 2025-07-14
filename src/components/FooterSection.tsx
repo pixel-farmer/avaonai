@@ -37,7 +37,7 @@ const FooterSection = () => {
 
         {/* Copyright */}
         <div className="text-white text-sm mt-6">
-          © I am AVA. Site by <a href="#" className="underline">PixelFarmer</a>
+          © I am AVA. Site by <a href="https://lawnwalker.com/" className="underline">Lawn Walker</a>
         </div>
       </div>
     </div>
